@@ -1,4 +1,9 @@
 {
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "prettier.disableLanguages": ["js, jsx, ts, tsx"],
+  
   "workbench.colorCustomizations": {
     "titleBar.activeForeground": "#000",
     "titleBar.inactiveForeground": "#000000CC",
